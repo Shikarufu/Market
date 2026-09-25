@@ -1,125 +1,84 @@
+# Welcome to Martket🏪🛒
 
-🛒 Market
+**Explore my code**
 
-A simple market/e-commerce application designed to provide users with an easy way to browse products, view product information, and manage their shopping experience.
+#
+This my python code that the concept is about the Market.
 
-📌 About the Project
-
-Market is a project created to practice and demonstrate software development skills through the development of a basic online marketplace.
-
-The project focuses on building a clean user experience while implementing common market features such as product management, product browsing, and shopping functionality.
-
-✨ Features
-
-* 🛍️ Browse available products
-* 🔎 Search for products
-* 📂 Browse products by category
-* 📦 View product details
-* 🛒 Add products to a shopping cart
-* ➕ Update product quantities
-* 🗑️ Remove products from the cart
-* 👤 User account functionality
-* 📋 Order management
-* 📱 Responsive user interface
-
-Features may change as development continues.
-
-🛠️ Technologies
-
-The technologies used in this project include:
-
-* Frontend: [Add your technology]
-* Backend: [Add your technology]
-* Database: [Add your database]
-* Language: [Add your programming language]
-* Tools: Git & GitHub
-
-📂 Project Structure
+## 🏃Execute
+```python
+py main.py
 ```
-Market/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   └── ...
-│
-├── assets/
-│
-├── README.md
-└── ...
+### 📖Better view
+>To get better view in CLI **(Command Line Interface)**. You can view it in CMD
+
+> [!NOTE]
+> Press 🪟+r or press 🪟 and search CMD<br>
+
+**Make sure that the file path is correct**
 ```
-The structure may change as the project develops.
+C or any drive you have saved:\...\Market\main.py
+```
 
-🚀 Getting Started
+## 📚Library
+>In this code there are serveral library you have to install for execute this code<br>
 
-1. Clone the repository
+### Example
+1. Case one🧪
+```
+pip install library_name
+```
+2. Case two🧪
+```
+python -m pip install library_name
+```
+3. Case three🧪
+```
+py -m pip install library_name
+```
+> [!MYEXPERIENCE] Base on my experience these cases I have met some machine can not run **pip install** so you have to try three of these cases to install the libary into your machine.
 
-git clone https://github.com/Shikarufu/Market.git
+## InquirerPy Library📚
+Interactive CLI prompts and user input menus.
+```
+pip install InquirerPy
+```
+## Colorama Library🎨
+Simple cross-platform colored terminal text.
+```
+pip install colorama
+```
+## Pyfiglet Library🎨
+Large ASCII art text banners for terminal titles.
+```
+pip install pyfiglet 
+```
+## Rich Library💻
+Advanced rich text formatting, tables, and console styling.
+```
+pip install rich 
+```
+## Pandas Library📊
+Powerful data manipulation and analysis structures. 
+```
+pip install pandas
+```
+## 📁 Repository Structure
+```
+├──Market/           #main Folder       
+│   ├──main.py       #main file
+│   ├──readme.md     #you are here
+```
+## 👤 Project Lead / Author
+**Sao Seanlong** CS Students<br>
+> Note
+> If you are interesting my project feel free to tap on the star button⭐<br>
+For more information! <br>**Please go to my portfolio link [My Portfolio](https://shikarufu.github.io/Seanlong-portfolio/) or visit my portfolio name as *Seanlong-portfolio***
+<br>
 
-2. Open the project
+>I am just a begginer developer
 
-cd Market
 
-3. Install dependencies
-
-# Add the appropriate command for your project
-
-4. Run the application
-
-# Add the appropriate command for your project
-
-🖼️ Screenshots
-
-Screenshots will be added here as the project develops.
-
-<!--
-Example:
-![Home Page](screenshots/home.png)
-![Product Page](screenshots/product.png)
-![Shopping Cart](screenshots/cart.png)
--->
-
-🗺️ Future Improvements
-
-Planned improvements may include:
-
-* [ ]	User authentication
-* [ ]	Product search and filtering
-* [ ]	Shopping cart
-* [ ]	Order history
-* [ ]	Payment integration
-* [ ]	Admin dashboard
-* [ ]	Product management
-* [ ]	Database integration
-* [ ]	Responsive mobile design
-* [ ]	Improved UI/UX
-
-🎯 Project Goals
-
-The main goals of this project are to:
-
-1. Improve practical programming skills.
-2. Learn how real-world applications are structured.
-3. Practice working with databases and APIs.
-4. Improve Git and GitHub workflow.
-5. Build a project that can be included in a developer portfolio.
-
-🤝 Contributing
-
-This is currently a personal learning project.
-
-Suggestions, feedback, and improvements are welcome.
-
-📄 License
-
-This project is currently available for educational and learning purposes.
-
-👨‍💻 Author
-
-Sao Seanlong
-
-GitHub: @Shikarufu
 
 
 
