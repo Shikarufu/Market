@@ -70,13 +70,14 @@ pip install pandas
 │   ├──readme.md     #you are here
 ```
 ## 👤 Project Lead / Author
-**Seanlong Sao** A simple developer<br>
+**Sao Seanlong** A simple developer<br>
 *Specializing in programming*
 > Note
-> If you are interesting my project feel free to tap on the start button⭐<br>
-For more information! **Please go to my portfolio link [My Portfolio](https://shikarufu.github.io/Seanlong-portfolio/) or visit my portfolio name as *Seanlong-portfolio***
+> If you are interesting my project feel free to tap on the star button⭐<br>
+For more information! <br>**Please go to my portfolio link [My Portfolio](https://shikarufu.github.io/Seanlong-portfolio/) or visit my portfolio name as *Seanlong-portfolio***
 <br>
-> I am just a begginer developer
+
+>I am just a begginer developer
 
 
 
