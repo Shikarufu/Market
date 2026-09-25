@@ -70,8 +70,7 @@ pip install pandas
 │   ├──readme.md     #you are here
 ```
 ## 👤 Project Lead / Author
-**Sao Seanlong** A simple developer<br>
-*Specializing in programming*
+**Sao Seanlong** CS Students<br>
 > Note
 > If you are interesting my project feel free to tap on the star button⭐<br>
 For more information! <br>**Please go to my portfolio link [My Portfolio](https://shikarufu.github.io/Seanlong-portfolio/) or visit my portfolio name as *Seanlong-portfolio***
