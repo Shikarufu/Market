@@ -35,7 +35,7 @@ The technologies used in this project include:
 * Tools: Git & GitHub
 
 📂 Project Structure
-
+```
 Market/
 │
 ├── src/
@@ -48,7 +48,7 @@ Market/
 │
 ├── README.md
 └── ...
-
+```
 The structure may change as the project develops.
 
 🚀 Getting Started
