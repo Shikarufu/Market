@@ -2,8 +2,11 @@
 
 **Explore my code**
 
-#
+## Summarize
 This my python code that the concept is about the Market.
+> To use this program <br>
+**For the startup it shows nice with colorful terminal which it has Market and the option. You just have to use your keyboard(key arrow up and down) then you can enjoy it!**
+
 
 ## 🏃Execute
 ```python
@@ -75,10 +78,5 @@ pip install pandas
 > If you are interesting my project feel free to tap on the star button⭐<br>
 For more information! <br>**Please go to my portfolio link [My Portfolio](https://shikarufu.github.io/Seanlong-portfolio/) or visit my portfolio name as *Seanlong-portfolio***
 <br>
-
->I am just a begginer developer
-
-
-
 
 
