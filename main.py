@@ -18,6 +18,7 @@ console.print(f"[bold green]{ascii_title}[/bold green]")
 
 # Todo
 # Make a option
+# hahaha
 run=True
 cart=[]
 Fruit=[
